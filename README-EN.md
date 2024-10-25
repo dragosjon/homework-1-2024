@@ -1,7 +1,10 @@
 # Instructions
 
 # Obiective : Modify the marked place in  the `app.js` file in order to satisfy the tests
-;pl[]
+;pl[].
+
+
+
 # Steps to run the test and submit the assignment
 1. Clone the homework repository
 2. From the `main` folder, run `npm install`
