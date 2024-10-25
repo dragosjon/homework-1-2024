@@ -1,8 +1,6 @@
 # Instructions
 
 # Obiective : Modify the marked place in  the `app.js` file in order to satisfy the tests
-;pl[].
-
 
 
 # Steps to run the test and submit the assignment
